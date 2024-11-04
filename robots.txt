@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ofifuoja.github.io/kjT/sitemap_index.txt
+Sitemap: https://ofifuoja.github.io/mBk/sitemap_index.txt
+Sitemap: https://ofifuoja.github.io/oZx/sitemap_index.txt
+Sitemap: https://ofifuoja.github.io/qHw/sitemap_index.txt
